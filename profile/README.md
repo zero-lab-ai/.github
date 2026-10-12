@@ -8,7 +8,7 @@
     </td>
     <td width="28%" align="right" valign="middle">
       <a href="https://zero-lab.ai/">
-        <img src="assets/zero-lab-mark.svg" width="150" alt="Zero Lab">
+        <img src="assets/zero-lab-mark-animated.gif" width="150" alt="Animated Zero Lab mark">
       </a>
     </td>
   </tr>
